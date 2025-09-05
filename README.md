@@ -1,6 +1,19 @@
-# D6V6L6 - Advanced XSS Scanner
+📌 About D6V6L6 is an open-source security tool written in Python for detecting XSS (Cross-Site Scripting) vulnerabilities.
+It not only scans for XSS but also performs information gathering by crawling the target website to collect links, forms, scripts, and iframes.
 
-**D6V6L6** is a Python tool to scan websites for XSS vulnerabilities.
+🔑 Key Features
+
+Website crawling & information gathering
+
+Detection of Reflected XSS using multiple payloads
+
+Multi-threaded scanning for speed
+
+Option to save results to a file
+
+⚠️ Disclaimer: This tool is for educational and authorized security testing purposes only.D6V6L6
+
+Developer abdalmohamen
 
 ## Installation
 
